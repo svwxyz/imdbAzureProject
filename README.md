@@ -14,7 +14,7 @@ This project demonstrates how to build a **data engineering pipeline** using **A
 ## 🛠 Architecture  
 Below is the high-level architecture of the project:
 
-![Architecture Diagram](TheArchitecture/TheArchitecture.png)
+![Architecture Diagram](TheArchitechture/TheArchitecture.png)
 
 1. **Data Ingestion**:  
    - Created an **Azure Data Factory pipeline** to fetch IMDb dataset from **GitHub**.  
