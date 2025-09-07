@@ -14,7 +14,7 @@ This project demonstrates how to build a **data engineering pipeline** using **A
 ## 🛠 Architecture  
 Below is the high-level architecture of the project:
 
-![Architecture Diagram](TheArchitecture.png)
+![Architecture Diagram](TheArchitecture/TheArchitecture.png)
 
 1. **Data Ingestion**:  
    - Created an **Azure Data Factory pipeline** to fetch IMDb dataset from **GitHub**.  
@@ -30,6 +30,21 @@ Below is the high-level architecture of the project:
 ---
 
 ## 📂 Repository Structure  
+
+- **DataBricks NoteBook**  
+  Azure Databricks notebooks for data processing, transformations, and analysis.  
+
+- **Raw Data**  
+  Original data files that are ingested into the project.  
+
+- **Transfored Data**  
+  Data after processing, cleaning, and transformation. Ready for analysis or modeling.  
+
+- **TheArchitechture**  
+  Architecture diagrams and related documentation for the project.  
+
+- **README.md**  
+  This file. Contains an overview of the project structure and purpose.  
 
 ---
 
